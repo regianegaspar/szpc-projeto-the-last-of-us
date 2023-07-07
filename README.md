@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-<img alt="Projeto Habits" src="https://github.com/regianegaspar/szpc-projeto-the-last-of-us/blob/main/src/imagens/preview.jpg?raw=true" width="100%">
+<img alt="Projeto The Last Of Us" src="https://github.com/regianegaspar/szpc-projeto-the-last-of-us/blob/main/src/imagens/preview.jpg?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
